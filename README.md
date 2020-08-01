@@ -1,2 +1,2 @@
 # SpecialOrder
-hacktivitonCon 2020 CTF challebge
+hacktivityCon 2020 CTF challenge
